@@ -1,0 +1,14 @@
+D:\Apps\.NET\DigitalInnovationOne\csharp-examples-master\csharp-examples-master\Revisao\bin\Debug\netcoreapp3.1\Revisao.exe
+D:\Apps\.NET\DigitalInnovationOne\csharp-examples-master\csharp-examples-master\Revisao\bin\Debug\netcoreapp3.1\Revisao.deps.json
+D:\Apps\.NET\DigitalInnovationOne\csharp-examples-master\csharp-examples-master\Revisao\bin\Debug\netcoreapp3.1\Revisao.runtimeconfig.json
+D:\Apps\.NET\DigitalInnovationOne\csharp-examples-master\csharp-examples-master\Revisao\bin\Debug\netcoreapp3.1\Revisao.runtimeconfig.dev.json
+D:\Apps\.NET\DigitalInnovationOne\csharp-examples-master\csharp-examples-master\Revisao\bin\Debug\netcoreapp3.1\Revisao.dll
+D:\Apps\.NET\DigitalInnovationOne\csharp-examples-master\csharp-examples-master\Revisao\bin\Debug\netcoreapp3.1\Revisao.pdb
+D:\Apps\.NET\DigitalInnovationOne\csharp-examples-master\csharp-examples-master\Revisao\obj\Debug\netcoreapp3.1\Revisao.csproj.AssemblyReference.cache
+D:\Apps\.NET\DigitalInnovationOne\csharp-examples-master\csharp-examples-master\Revisao\obj\Debug\netcoreapp3.1\Revisao.GeneratedMSBuildEditorConfig.editorconfig
+D:\Apps\.NET\DigitalInnovationOne\csharp-examples-master\csharp-examples-master\Revisao\obj\Debug\netcoreapp3.1\Revisao.AssemblyInfoInputs.cache
+D:\Apps\.NET\DigitalInnovationOne\csharp-examples-master\csharp-examples-master\Revisao\obj\Debug\netcoreapp3.1\Revisao.AssemblyInfo.cs
+D:\Apps\.NET\DigitalInnovationOne\csharp-examples-master\csharp-examples-master\Revisao\obj\Debug\netcoreapp3.1\Revisao.csproj.CoreCompileInputs.cache
+D:\Apps\.NET\DigitalInnovationOne\csharp-examples-master\csharp-examples-master\Revisao\obj\Debug\netcoreapp3.1\Revisao.dll
+D:\Apps\.NET\DigitalInnovationOne\csharp-examples-master\csharp-examples-master\Revisao\obj\Debug\netcoreapp3.1\Revisao.pdb
+D:\Apps\.NET\DigitalInnovationOne\csharp-examples-master\csharp-examples-master\Revisao\obj\Debug\netcoreapp3.1\Revisao.genruntimeconfig.cache
